@@ -1,0 +1,5 @@
+<config>
+	<!-- vanilla: BlockRange 3.5, MaxRange 2.35 -->
+	<set xpath="/items/item[@name='meleeToolPickT3Auger']/effect_group[@name='meleeToolPickT3Auger']/passive_effect[@name='BlockRange']/@value">4.5</set>
+	<set xpath="/items/item[@name='meleeToolPickT3Auger']/effect_group[@name='meleeToolPickT3Auger']/passive_effect[@name='MaxRange']/@value">3</set>
+</config>

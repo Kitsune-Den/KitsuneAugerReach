@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+    <Name value="KitsuneAugerReach" />
+    <DisplayName value="Kitsune Auger Reach" />
+    <Version value="1.0.0" />
+    <Description value="Gives the auger a little more reach: block range 3.5 to 4.5, entity range 2.35 to 3. Server-side only, pure XML." />
+    <Author value="AdaInTheLab" />
+    <Website value="https://github.com/Kitsune-Den/KitsuneAugerReach" />
+</xml>
